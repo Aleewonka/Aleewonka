@@ -1,3 +1,4 @@
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 <h1 align="center">Hi 👋, I'm Alee Wonka</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
