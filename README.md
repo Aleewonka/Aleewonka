@@ -1,4 +1,4 @@
-[[!MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alee Wonka</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_callmeale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_callmeale" height="30" width="40" /></a>
+<a href="https://instagram.com/__callmeale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__callmeale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
